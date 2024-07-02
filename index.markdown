@@ -33,13 +33,13 @@ Connect with ISMP mentors for personalized guidance and support. Explore their [
 
 ---
 
-## Exciting news for JEE Advanced cleared Students!
+# <span style="color: #007acc;">Exciting news for JEE Advanced cleared Students! </span>
 
 <!--![Image](images/s2.png)-->
 <!--[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)-->  
 <img style="float: right;" src="images/s2.png" width="200" height="200">
 
-Joy of Computing Workshop (Completed)
+# Joy of Computing Workshop (Completed)
 
 Attend our exclusive, **free** workshop at IIT Ropar for JEE Advanced cleared students, and explore the endless possibilities of the digital world through engaging, hands-on experiences.
 
