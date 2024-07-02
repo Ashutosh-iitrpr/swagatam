@@ -4,13 +4,14 @@ layout: home
 
 # <span style="color: #007acc;">INFORMATION CORNER</span>
 
-## <img src="images/s5.png" alt="Handbook Icon" width="35"> <span style="color: #4caf50;">Handbook of Information</span>
-   This PDF contains all the academic details for freshmen joining IIT Ropar. Download from here 
+## <img src="images/s5.png" alt="Handbook Icon" width="40"> <span style="color: #4caf50;">Handbook of Information</span>
+   This PDF contains all the academic details for freshmen joining IIT Ropar. Download from [here](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)
 
-## <img src="images/s6.png" alt="ISMP Icon" width="35">  <span style="color: #4caf50;">Connect to ISMP</span>
-   Connect with ISMP mentors for personalized guidance and support. Explore their website to learn about the culture at IIT      Ropar: Explore ISMP 
 
-## <img src="images/s7.png" alt="Phone Icon" width="35">  <span style="color: #4caf50;">Contact details for Acadmic/Admission related Queries</span>
+## <img src="images/s6.png" alt="ISMP Icon" width="40">  <span style="color: #4caf50;">Connect to ISMP</span>
+   Connect with ISMP mentors for personalized guidance and support. Explore their [website] (https://www.iitrpr.ac.in/ismp/)to learn about the culture at IIT      Ropar: Explore ISMP 
+
+## <img src="images/s7.png" alt="Phone Icon" width="40">  <span style="color: #4caf50;">Contact details for Acadmic/Admission related Queries</span>
    For academic section queries please use: 
    - Phone: 01881-231111, 231113, 231176 
    - Email: officer-academics-1@iitrpr.ac.in and jr.acad@iitrpr.ac.in
