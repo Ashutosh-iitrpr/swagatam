@@ -23,7 +23,8 @@ Welcome to IIT Ropar, where new students are greeted with open arms and an array
 ## Exciting news for JEE Advanced cleared Students!
 
 <!--![Image](images/s2.png)-->
-![[iamge](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)
+![[Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)  
+
 Joy of Computing Workshop
 
 Attend our exclusive, **free** workshop at IIT Ropar for JEE Advanced cleared students, and explore the endless possibilities of the digital world through engaging, hands-on experiences.
