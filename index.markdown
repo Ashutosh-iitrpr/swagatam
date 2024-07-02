@@ -13,14 +13,6 @@ This PDF contains all the academic details for freshmen joining IIT Ropar. Downl
 ## <span style="color: #ff5722;">CONNECT TO ISMP</span>
 Connect with ISMP mentors for personalized guidance and support. Explore their website to learn about the culture at IIT Ropar: Explore ISMP <img src="https://example.com/ismp-icon.png" alt="ISMP Icon" width="20">
 
-
-![Contact Details](images/s7.png)
-
-Contact details for academic/admission related queries:
-
-- Academic Section Queries: [01881-231111](tel:+91881231111), [231113](tel:+91881231113), [231176](tel:+91881231176)
-- Email: [officer-academics-1@iitrpr.ac.in](mailto:officer-academics-1@iitrpr.ac.in), [jr.acad@iitrpr.ac.in](mailto:jr.acad@iitrpr.ac.in)
-
 ---
 
 ## Exciting news for JEE Advanced cleared Students!
