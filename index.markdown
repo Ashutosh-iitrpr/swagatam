@@ -36,7 +36,8 @@ Connect with ISMP mentors for personalized guidance and support. Explore their [
 ## Exciting news for JEE Advanced cleared Students!
 
 <!--![Image](images/s2.png)-->
-[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)  
+<!--[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)-->  
+<img src="images/s2.png" width="300" height="300">
 
 Joy of Computing Workshop (Completed)
 
