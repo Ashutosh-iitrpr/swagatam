@@ -5,87 +5,89 @@
 layout: home
 ---
 
+markdown
+# IIT Ropar
 
+## Welcome to IIT Ropar
 
-We are excited to invite you to our specially designed in-person workshop, **"The Joy of Computing," at IIT Ropar!** This immersive experience is exclusively for candidates who have cleared JEE Advanced and is a **_sponsored workshop, free of cost for all JEE Advanced cleared students_**.
+![Slider Background](images/slider-bg3.png)
 
----
+Swagatam to IIT Ropar
 
-## Discover the Joy of Computing!
+Welcome to IIT Ropar, where new students are greeted with open arms and an array of orientation programs designed to help them integrate seamlessly into campus life and feel at home in no time.
 
-Join our specially designed in-person workshop for JEE Advanced cleared candidates and ignite your passion for technology. This immersive experience will introduce you to the endless possibilities of the digital world through hands-on activities, and real-world applications that demonstrate the transformative power of computing. Whether you're a budding programmer or simply curious about technology, this workshop will empower you to harness your potential, innovate fearlessly, and shape the future. Plus, get ready for a special session on AI that will delve into its revolutionary impact and practical applications. Embark on a journey of inspiration, learning, and growth in the vibrant world of computing.
-
-### Key Details:
-
-- **Reporting Time**: Friday, 28th June, 5:30 PM
-- **Departure**: Sunday, 30th June, 6:00 PM (You are free to stay the sunday night here and leave the campus in the morning on Monday)
-
-[Register Here](https://docs.google.com/forms/d/e/1FAIpQLScaomoCF4aIrdPlpgejMGzCEtf-D7itkJjcO7wFm-7XWe-Cjg/viewform?usp=sf_link)
-
-Join our WhatsApp community here:
-[WhatsApp Group](https://chat.whatsapp.com/K11JQ657WtF3mpX4jNt2XZ)
-
-
-![campus](images/1-1.jpg)
-
-
+[Campus Video](https://drive.google.com/file/d/1Iq39k0rplGGp_Yc4FM37wGkj0QKrDReW/view)
 
 ---
 
-### Note:
-- If selected for the workshop, you will be required to arrive by Friday evening at 7:00 PM and stay on campus until Sunday evening at 6:00 PM.
-- Although we recommend staying until Monday morning, you can leave as early as Sunday at 6:00 PM.
-- You may also choose to stay on Sunday night if you plan to travel back home the next day.
-- The registration fee is ₹1000, which will be refunded upon the successful completion of the workshop.
+## Exciting news for JEE Advanced cleared Students!
+
+![Image](images/s2.png)
+
+Joy of Computing Workshop
+
+Attend our exclusive, **free** workshop at IIT Ropar for JEE Advanced cleared students, and explore the endless possibilities of the digital world through engaging, hands-on experiences.
+
+For further details: [Visit our website](https://www.iitrpr.ac.in/swagatam/)
+
+![Map Marker](https://www.google.com/maps/place/S.+Ramanujan+Block+-+IIT+Ropar/@30.9688583,76.4750874,18.28z/data=!4m6!3m5!1s0x39055541f9d03931:0xd82463b14ef85ff0!8m2!3d30.9689972!4d76.4756899!16s%2Fg%2F11g22z9t9g?entry=ttu)
+
+Location - CSE Department, IIT Ropar
+
+![Image](images/imgg.png)
 
 ---
 
-## FAQ
+## Information Corner
 
-**1. Is it required to bring any required electronic device for the workshop?**
+Offering essential information to prepare you for a successful start at IIT Ropar, ensuring you're fully informed and ready.
 
-Electronic devices are not required for the workshop, as we aim for a complete detox from electronic gadgets. This will allow participants to fully engage with the hands-on activities and discussions.
+![Handbook of Information](images/s5.png)
 
-**2. Is there a fee for accommodations and food, or are they included in the workshop?**
+Handbook of Information
 
-There is no fee for accommodation or food, as they are included in the workshop. This initiative is completely free of charge, with all expenses covered. A refundable safety deposit of Rs. 1000 is required, which will be returned within two days after the completion of the workshop.
+This PDF contains all the academic details for freshmen joining IIT Ropar. Download from [here](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)
 
-**3. What is the limit on the number of students who can attend this workshop?**
+![Connect to ISMP](images/s6.png)
 
-While we strive to welcome as many students as possible, please note that we have a limited number of seats available. We encourage early registration to secure your spot in the workshop.
+Connect to ISMP
 
-**4. Can parents come, or should only the students attend alone?**
+Connect with ISMP mentors for personalized guidance and support here and explore their [website](https://www.iitrpr.ac.in/ismp/) to learn about the culture at IIT Ropar.
 
-Parents are welcome to visit with us and observe the learning atmosphere of IIT Ropar. However, please be aware that accommodation and food for parents are not included in the Rs. 1000 safety deposit. There are several excellent hotels around IIT Ropar for lodging, and numerous dining options available in the cafeteria and nearby.
+![Contact Details](images/s7.png)
 
-**5. What are the accommodation arrangements during the workshop?**
+Contact details for academic/admission related queries:
 
-During the workshop, all students will be provided with shared accommodation. This setup offers them a genuine experience of staying in the hostels at IITs and fosters strong bonds with their roommates.  
+- Academic Section Queries: [01881-231111](tel:+91881231111), [231113](tel:+91881231113), [231176](tel:+91881231176)
+- Email: [officer-academics-1@iitrpr.ac.in](mailto:officer-academics-1@iitrpr.ac.in), [jr.acad@iitrpr.ac.in](mailto:jr.acad@iitrpr.ac.in)
 
-**6. Will there be an online mode also for the workshop?**
+---
 
-The workshop will also be offered in an online mode. Further information regarding the online mode will be communicated shortly, so please stay tuned! Whether you opt to participate in person or remotely from your home, we have options available to accommodate your preferences.
+## Join Our
 
-**7. Is the travel fee reimbursed?**
+[Linktree](https://linktr.ee/iitropar)
 
-No, we regret to inform you that the travel charges are not reimbursed.We recognize this may pose an inconvenience and are exploring options to address this for upcoming workshops. In the meantime, kindly plan your travel arrangements accordingly.
+[Instagram](https://www.instagram.com/iit_ropar_official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-**8. The scorecards of the JEE Advanced are yet to be released. How do I add proof of my scorecard?**
+[YouTube Channel](https://www.youtube.com/@VidyaVaniIITRopar)
 
-If the scorecards have not been released yet, you may submit a screenshot of your scorecard as proof of your eligibility. This will suffice until the official scorecards are available, allowing you to update your submission if necessary. Our goal is to ensure that all qualifying individuals have the chance to participate.
+![About Image](images/about-img.jpg)
 
-**9. Can we join the workshop even if we are joining any other IIT?**
+---
 
-Certainly! Attending the workshop at IIT Ropar would provide you with hands-on experience at a different institution and allow you to explore the unique aspects of IIT Ropar. It's a fantastic opportunity to broaden your perspective and experience the vibrant campus life of another IIT.
+## Frequently Asked Questions
 
-**10. How do we pay the fee for the workshop?**
+### Q1: What makes IIT Ropar unique compared to other IITs?
 
-The procedure will be communicated via email once the final list of students is declared. Therefore, stay tuned and monitor the emails you receive. We will provide detailed instructions to ensure a seamless and straightforward payment process.
+IIT Ropar stands out for several reasons that contribute to its unique identity among the IITs:
 
-**11. When is the list of selected students released?**
+- **AI for All:** No matter what branch you came from, we at IIT Ropar give you the opportunity to get a minor in AI.
+- **Branch Change:** IIT Ropar offers a branch change option at the end of the 1st year.
+- **Global Collaborations:** We participate in international research projects and exchange programs.
+- **6-Month Internship Opportunity:** We offer a 6-month internship opportunity for 3rd-year students.
+- **Location, Location, Location:** Located in the land of five rivers, our lush green campus offers a peaceful life.
+- **New Buildings and Hostels:** We have brand new, beautiful buildings, iconic structures, and modern hostels.
 
-Notification emails will be sent to the shortlisted students. Please check your email regularly as you may receive the notification soon. We are actively finalizing the list and will promptly inform all selected students.
+### Q2: What are the main focuses of the Workshop?
 
-**12. I am uncertain about attending the workshop offline. Should I proceed with the payment of the Rs1000 security deposit?**
-
-Making the security deposit is crucial for accurately estimating the number of attendees. Please make the payment only if you are certain about attending the workshop. This measure is essential to minimize food wastage and facilitate effective planning.
+The shift from JEE preparation to college life is typically quite challenging for students. This initiative aims to serve as a bridge between the students' coaching days and their college days. Engaging concepts will be taught in a fun and interactive manner. Utilizing software like Geogebra, students will be presented with problems designed to enhance their understanding and encourage critical thinking. Connecting concepts, practical applications, and brainstorming will help boost students' confidence and their ability to think critically.
