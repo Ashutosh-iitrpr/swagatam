@@ -21,7 +21,7 @@ This PDF contains all the academic details for freshmen joining IIT Ropar. Downl
 <a href="https://www.iitrpr.ac.in/ismp/">
   <img src="images/s6.png" alt="Handbook Icon" width="40">
 </a><span style="color: #4caf50; font-size: 22px;">Connect to ISMP</span>  
-Connect with ISMP mentors for personalized guidance and support. Explore their [website] (https://www.iitrpr.ac.in/ismp/)to learn about the culture at IIT      Ropar: Explore ISMP 
+Connect with ISMP mentors for personalized guidance and support. Explore their [website](https://www.iitrpr.ac.in/ismp/)to learn about the culture at IIT      Ropar: Explore ISMP 
 
 <a href="https://www.iitrpr.ac.in/academic-people">
   <img src="images/s7.png" alt="Handbook Icon" width="40">
