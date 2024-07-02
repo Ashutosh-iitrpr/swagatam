@@ -5,7 +5,7 @@
 layout: home
 ---  
   
-  
+{%- include social.html -%}
 # <span style="color: #007acc;">Exciting news for JEE Advanced cleared Students! </span>
 
 <!--![Image](images/s2.png)-->
