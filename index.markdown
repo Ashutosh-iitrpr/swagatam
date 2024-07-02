@@ -5,21 +5,14 @@
 layout: home
 ---
 
-## Information Corner
+# <span style="color: #007acc;">Information Corner</span>
 
-Offering essential information to prepare you for a successful start at IIT Ropar, ensuring you're fully informed and ready.
+## <span style="color: #4caf50;">HANDBOOK OF INFORMATION</span>
+This PDF contains all the academic details for freshmen joining IIT Ropar. Download from here <img src="https://example.com/handbook-icon.png" alt="Handbook Icon" width="20">
 
-![Handbook of Information](images/s5.png)
+## <span style="color: #ff5722;">CONNECT TO ISMP</span>
+Connect with ISMP mentors for personalized guidance and support. Explore their website to learn about the culture at IIT Ropar: Explore ISMP <img src="https://example.com/ismp-icon.png" alt="ISMP Icon" width="20">
 
-Handbook of Information
-
-This PDF contains all the academic details for freshmen joining IIT Ropar. Download from [here](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)
-
-![Connect to ISMP](images/s6.png)
-
-Connect to ISMP
-
-Connect with ISMP mentors for personalized guidance and support here and explore their [website](https://www.iitrpr.ac.in/ismp/) to learn about the culture at IIT Ropar.
 
 ![Contact Details](images/s7.png)
 
