@@ -23,7 +23,7 @@ Welcome to IIT Ropar, where new students are greeted with open arms and an array
 ## Exciting news for JEE Advanced cleared Students!
 
 <!--![Image](images/s2.png)-->
-![[Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)  
+[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)  
 
 Joy of Computing Workshop
 
