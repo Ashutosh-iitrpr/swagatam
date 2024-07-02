@@ -15,7 +15,7 @@ layout: default
       color: #000000;
       margin: 0;
       padding: 0;
-      background: #f0f0f0; /* Change the background color if needed */
+      background: #f0f0f0;
     }
 
     .home {
@@ -33,14 +33,17 @@ layout: default
     .hero-image {
       width: 100%;
       height: auto;
+      display: block; /* Ensure the image is a block element */
+      position: absolute; /* Position it absolutely within the hero-section */
+      top: 0; /* Align the top of the image with the top of the hero-section */
+      left: 0; /* Align the left of the image with the left of the hero-section */
+      z-index: -1; /* Ensure the image is behind the text */
     }
 
     .hero-text {
-      position: absolute;
-      top: 20%;
-      left: 10%;
-      transform: translate(-10%, -20%);
-      color: white;
+      position: relative;
+      z-index: 1;
+      padding: 20px; /* Add some padding to the text */
     }
 
     .hero-text h2 {
