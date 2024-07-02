@@ -22,7 +22,6 @@ For further details: [Visit our website](https://www.iitrpr.ac.in/swagatam/)
   <img src="images/point.jpg" alt="Location" width="25">
 </a><span style="color: #007acc; font-size: 18px;"> Location - CSE Department, IIT Ropar</span>
 
-<!--![Image](images/imgg.png)-->
 <img style="float: center;" src="images/imgg.png" width="300" height="200">
 
 ---  
@@ -52,10 +51,6 @@ Connect with ISMP mentors for personalized guidance and support. Explore their [
    - Email: officer-academics-1@iitrpr.ac.in and jr.acad@iitrpr.ac.in
 
 ---
-
-
----
-
 
 ## Join Our
 
