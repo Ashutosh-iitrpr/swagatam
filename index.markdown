@@ -5,7 +5,7 @@ layout: home
 # <span style="color: #007acc;">Information Corner</span>
 
 ## <span style="color: #4caf50;">HANDBOOK OF INFORMATION</span>
-This PDF contains all the academic details for freshmen joining IIT Ropar. Download from here <img src="https://example.com/handbook-icon.png" alt="Handbook Icon" width="20">
+This PDF contains all the academic details for freshmen joining IIT Ropar. Download from here <img src="images/s5.png" alt="Handbook Icon" width="20">
 
 ## <span style="color: #4caf50;">CONNECT TO ISMP</span>
 Connect with ISMP mentors for personalized guidance and support. Explore their website to learn about the culture at IIT Ropar: Explore ISMP <img src="https://example.com/ismp-icon.png" alt="ISMP Icon" width="20">
