@@ -55,7 +55,7 @@ Connect with ISMP mentors for personalized guidance and support. Explore their [
 
 [Linktree](https://linktr.ee/iitropar)
 
-{%- include social.html -%}
+{% include social.html %}
 
 ![About Image](images/about-img.jpg)
 
