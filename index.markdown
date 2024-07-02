@@ -1,4 +1,4 @@
-![image](https://github.com/Ashutosh-iitrpr/swagatam/assets/113211010/d6713f03-b66b-4b01-aa3a-7ec9cfa061ff)---
+
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
