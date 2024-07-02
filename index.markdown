@@ -37,7 +37,7 @@ Connect with ISMP mentors for personalized guidance and support. Explore their [
 
 <!--![Image](images/s2.png)-->
 <!--[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)-->  
-<img style="float: right;" src="images/s2.png" width="300" height="300">
+<img style="float: right;" src="images/s2.png" width="200" height="200">
 
 Joy of Computing Workshop (Completed)
 
