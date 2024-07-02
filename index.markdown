@@ -48,7 +48,6 @@ For further details: [Visit our website](https://www.iitrpr.ac.in/swagatam/)
 <a href="https://www.google.com/maps/place/S.+Ramanujan+Block+-+IIT+Ropar/@30.9688583,76.4750874,18.28z/data=!4m6!3m5!1s0x39055541f9d03931:0xd82463b14ef85ff0!8m2!3d30.9689972!4d76.4756899!16s%2Fg%2F11g22z9t9g?entry=ttu">
   <img src="images/point.jpg" alt="Location" width="25">
 </a><span style="color: #007acc; font-size: 18px;"> Location - CSE Department, IIT Ropar</span>
-Location - CSE Department, IIT Ropar
 
 ![Image](images/imgg.png)
 
