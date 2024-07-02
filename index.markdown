@@ -6,7 +6,27 @@ layout: home
 ---  
   
   
-  
+# <span style="color: #007acc;">Exciting news for JEE Advanced cleared Students! </span>
+
+<!--![Image](images/s2.png)-->
+<!--[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)-->  
+<img style="float: right;" src="images/s2.png" width="200" height="200">
+
+# Joy of Computing Workshop (Completed)
+
+Attend our exclusive, **free** workshop at IIT Ropar for JEE Advanced cleared students, and explore the endless possibilities of the digital world through engaging, hands-on experiences.
+
+For further details: [Visit our website](https://www.iitrpr.ac.in/swagatam/)
+
+<a href="https://www.google.com/maps/place/S.+Ramanujan+Block+-+IIT+Ropar/@30.9688583,76.4750874,18.28z/data=!4m6!3m5!1s0x39055541f9d03931:0xd82463b14ef85ff0!8m2!3d30.9689972!4d76.4756899!16s%2Fg%2F11g22z9t9g?entry=ttu">
+  <img src="images/point.jpg" alt="Location" width="25">
+</a><span style="color: #007acc; font-size: 18px;"> Location - CSE Department, IIT Ropar</span>
+
+<!--![Image](images/imgg.png)-->
+<img style="float: center;" src="images/imgg.png" width="200" height="250">
+
+---  
+
 # <span style="color: #007acc;">INFORMATION CORNER</span>
 *Offering essential information to prepare you for a successful start at IIT Ropar, ensuring you're fully informed and ready.*
 
@@ -33,23 +53,6 @@ Connect with ISMP mentors for personalized guidance and support. Explore their [
 
 ---
 
-# <span style="color: #007acc;">Exciting news for JEE Advanced cleared Students! </span>
-
-<!--![Image](images/s2.png)-->
-<!--[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)-->  
-<img style="float: right;" src="images/s2.png" width="200" height="200">
-
-# Joy of Computing Workshop (Completed)
-
-Attend our exclusive, **free** workshop at IIT Ropar for JEE Advanced cleared students, and explore the endless possibilities of the digital world through engaging, hands-on experiences.
-
-For further details: [Visit our website](https://www.iitrpr.ac.in/swagatam/)
-
-<a href="https://www.google.com/maps/place/S.+Ramanujan+Block+-+IIT+Ropar/@30.9688583,76.4750874,18.28z/data=!4m6!3m5!1s0x39055541f9d03931:0xd82463b14ef85ff0!8m2!3d30.9689972!4d76.4756899!16s%2Fg%2F11g22z9t9g?entry=ttu">
-  <img src="images/point.jpg" alt="Location" width="25">
-</a><span style="color: #007acc; font-size: 18px;"> Location - CSE Department, IIT Ropar</span>
-
-![Image](images/imgg.png)
 
 ---
 
