@@ -10,9 +10,9 @@ layout: home
 # <span style="color: #007acc;">INFORMATION CORNER</span>
 *Offering essential information to prepare you for a successful start at IIT Ropar, ensuring you're fully informed and ready.*
 
-
-## <img src="images/s5.png" alt="Handbook Icon" width="40"> <span style="color: #4caf50;">Handbook of Information</span>
-   This PDF contains all the academic details for freshmen joining IIT Ropar. Download from [here](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)
+<a href="https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf">
+  <img src="images/s5.png" alt="Handbook Icon" width="40">
+</a>This PDF contains all the academic details for freshmen joining IIT Ropar. Download from [here](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)
 
    
 
