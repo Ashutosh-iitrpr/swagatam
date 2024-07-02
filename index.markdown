@@ -14,7 +14,7 @@ layout: home
 <a href="https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf">
   <img src="images/s5.png" alt="Handbook Icon" width="40">
 </a> 
-<span style="color: #4caf50;">Handbook of Information</span>
+<span style="color: #4caf50; font-size: 25px;">Handbook of Information</span>
 This PDF contains all the academic details for freshmen joining IIT Ropar. Download from [here](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)
 
    
