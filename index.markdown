@@ -3,7 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
----
+---  
+
+
+
 # <span style="color: #007acc;">INFORMATION CORNER</span>
 *Offering essential information to prepare you for a successful start at IIT Ropar, ensuring you're fully informed and ready.*
 
