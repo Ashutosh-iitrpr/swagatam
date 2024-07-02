@@ -5,7 +5,6 @@
 layout: home
 ---  
   
-{%- include social.html -%}
 # <span style="color: #007acc;">Exciting news for JEE Advanced cleared Students! </span>
 
 <!--![Image](images/s2.png)-->
@@ -56,9 +55,7 @@ Connect with ISMP mentors for personalized guidance and support. Explore their [
 
 [Linktree](https://linktr.ee/iitropar)
 
-[Instagram](https://www.instagram.com/iit_ropar_official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-
-[YouTube Channel](https://www.youtube.com/@VidyaVaniIITRopar)
+{%- include social.html -%}
 
 ![About Image](images/about-img.jpg)
 
