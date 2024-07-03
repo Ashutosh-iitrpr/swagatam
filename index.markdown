@@ -58,7 +58,8 @@ Connect with ISMP mentors for personalized guidance and support. Explore their [
 
 {% include social.html %}
 
-![About Image](images/about-img.jpg)
+<img style="float: right;" src="images/about-img.jpg" width="300" height="200">
+<!--[About Image](images/about-img.jpg)-->
 
 ---
 
