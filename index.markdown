@@ -49,6 +49,7 @@ For academic section queries please use:
   - Phone: [01881-231111](tel:01881-231111), [231113](tel:01881-231113), [231176](tel:01881-231176)
   - Email: [officer-academics-1@iitrpr.ac.in](mailto:officer-academics-1@iitrpr.ac.in) and [jr.acad@iitrpr.ac.in](mailto:jr.acad@iitrpr.ac.in)
 
+<br>
 <a href="https://ashutosh-iitrpr.github.io/swagatam/Logistics.html">
   <img src="images/log.jpeg" alt="Handbook Icon" width="40">
 </a><span style="color: #4caf50; font-size: 22px;">Arriving IIT Ropar</span>
