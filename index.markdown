@@ -9,7 +9,7 @@ layout: home
 
 <!--![Image](images/s2.png)-->
 <!--[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)-->  
-<img style="float: right;" src="images/s2.png" width="200" height="200">
+<img style="float: left;" src="images/s2.png" width="20" height="20">
 
 # Joy of Computing Workshop (Completed)
 
@@ -21,7 +21,7 @@ For further details: [Visit our website](https://www.iitrpr.ac.in/swagatam/)
   <img src="images/point.jpg" alt="Location" width="25">
 </a><span style="color: #007acc; font-size: 18px;"> Location - CSE Department, IIT Ropar</span>
 
-<img style="float: center;" src="images/imgg.png" width="300" height="200">
+<img style="float: right;" src="images/imgg.png" width="300" height="200">
 
 ---  
 
