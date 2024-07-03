@@ -24,11 +24,11 @@ For further details: [Visit our website](https://www.iitrpr.ac.in/swagatam/)
 
 
 ---  
-
-# <span style="color: #007acc;">INFORMATION CORNER</span>
+<h5>  </h5>
+# <span style="color: #007acc;">Information Corner</span>
 *Offering essential information to prepare you for a successful start at IIT Ropar, ensuring you're fully informed and ready.*
 
-<br>
+<h3>  </h3>
 <a href="https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf">
   <img src="images/s5.png" alt="Handbook Icon" width="40">
 </a><span style="color: #4caf50; font-size: 22px;">Handbook of Information</span>  
@@ -66,8 +66,8 @@ For academic section queries please use:
 
 <!-- <img style="float: right;" src="images/about-img.jpg" width="300" height="200"> -->
 ---
-
-## Frequently Asked Questions
+<h5>  </h5>
+# <span style="color: #007acc;">Frequently Asked Questions</span>
 
 <details>
   <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
