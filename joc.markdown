@@ -93,3 +93,17 @@ Notification emails will be sent to the shortlisted students. Please check your 
 **12. I am uncertain about attending the workshop offline. Should I proceed with the payment of the Rs1000 security deposit?**
 
 Making the security deposit is crucial for accurately estimating the number of attendees. Please make the payment only if you are certain about attending the workshop. This measure is essential to minimize food wastage and facilitate effective planning.
+
+## Memories
+
+<div class="gallery">
+    
+<img src="images/img1.jpg" alt="Memory 2">
+    <img src="images/img2.jpg" alt="Memory 3">
+    <img src="images/img3.jpg" alt="Memory 4">
+    <img src="images/img4.jpg" alt="Memory 5">
+    <img src="images/img5.jpg" alt="Memory 6">
+    <img src="images/img6.jpg" alt="Memory 6">
+    <img src="images/img7.jpg" alt="Memory 6">
+    <img src="images/img8.jpg" alt="Memory 6">
+</div>
