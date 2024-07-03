@@ -53,8 +53,7 @@ Connect with ISMP mentors for personalized guidance and support. Explore their [
 ---
 <img style="float: right;" src="images/about-img.jpg" width="300" height="200">
 # <span style="color: #007acc;">Join Our</span>
-[Linktree](https://linktr.ee/iitropar)
-
+[Linktree](https://linktr.ee/iitropar)  
 {% include social.html %}
 ---
 
