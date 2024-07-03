@@ -54,7 +54,7 @@ For academic section queries please use:
 </a><span style="color: #4caf50; font-size: 22px;">Arriving IIT Ropar</span>
 
 ---
-<img style="float: right;" src="images/about-img.jpg" width="300" height="200">
+<img style="float: right;" src="images/about-img.jpg" width="400" height="300">
 <h5>  </h5>
 # <span style="color: #007acc;">Connect With Us</span>
 
