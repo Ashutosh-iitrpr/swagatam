@@ -11,7 +11,8 @@ layout: home
 <!--[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)-->  
 <img style="float: right;" src="images/imgg.png" width="300" height="200">
 
-# Joy of Computing Workshop (Completed)
+<img  src="images/sn2.png" width="40" height="40"><span style="color: #007acc; font-size: 18px;"> Joy of Computing Workshop</span>
+<!--# Joy of Computing Workshop (Completed)-->
 
 Attend our exclusive, **free** workshop at IIT Ropar for JEE Advanced cleared students, and explore the endless possibilities of the digital world through engaging, hands-on experiences.
 
@@ -21,7 +22,6 @@ For further details: [Visit our website](https://www.iitrpr.ac.in/swagatam/)
   <img src="images/point.jpg" alt="Location" width="25">
 </a><span style="color: #007acc; font-size: 18px;"> Location - CSE Department, IIT Ropar</span>
 
-<img style="float: right;" src="images/imgg.png" width="300" height="200">
 
 ---  
 
