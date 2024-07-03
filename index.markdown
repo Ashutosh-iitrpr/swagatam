@@ -50,7 +50,7 @@ Connect with ISMP mentors for personalized guidance and support. Explore their [
    - Phone: 01881-231111, 231113, 231176 
    - Email: officer-academics-1@iitrpr.ac.in and jr.acad@iitrpr.ac.in
 
-<a href="/Logistics.html">
+<a href="/swagatam/Logistics">
   <img src="images/s5.png" alt="Handbook Icon" width="40">
 </a><span style="color: #4caf50; font-size: 22px;">Arriving IIT Ropar</span>
 
