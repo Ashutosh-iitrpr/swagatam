@@ -18,11 +18,7 @@ layout: default
       background-image: url('images/slider-bg3.png');
       background-size: contain; /* Set the width and height of the background image */
       background-repeat: no-repeat;
-      background-position: center top;
-    
-       /* Center the background image */
-      <!-- background-color: #ffdbac;-->
-    }
+      background-position: right center; /* Position the background image to the right */
     }
 
     .home {
@@ -86,7 +82,7 @@ layout: default
     .btn {
       display: inline-block;
       padding: 10px 20px;
-      background-color:  #0056b3;; /* Button background color */
+      background-color: #0056b3; /* Button background color */
       color: #fff; /* Button text color */
       text-decoration: none;
       border-radius: 5px;
@@ -123,9 +119,8 @@ layout: default
     }
 
     .content {
-            text-align: left;
-        }
-
+      text-align: left;
+    }
   </style>
 </head>
 <body>
@@ -133,7 +128,6 @@ layout: default
   <!--{%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}  </h1>
   {%- endif -%}-->
-
 
   <div class="hero-section">
     <div class="content">
@@ -144,33 +138,30 @@ layout: default
         programs designed to help them integrate seamlessly into campus life and feel at home in no time.
         </font>
       </p>
-    <!--<img src="images/joc.jpg" alt="AI Vicharana Shala" class="hero-image" width="512" height="512">-->
+      <!--<img src="images/joc.jpg" alt="AI Vicharana Shala" class="hero-image" width="512" height="512">-->
       <!-- <iframe width="100%" height="auto" src="https://drive.google.com/file/d/1Iq39k0rplGGp_Yc4FM37wGkj0QKrDReW/view"></iframe> -->
 
-
-    <br><br>
+      <br><br>
       <a href="https://drive.google.com/file/d/1Iq39k0rplGGp_Yc4FM37wGkj0QKrDReW/view" class="btn">Campus Video</a>    
-      
     </div>
   </div>
   
- 
   {{ content }}
 
- <!-- {%- if site.posts.size > 0 -%}
+  <!-- {%- if site.posts.size > 0 -%}
     <div class="recent-posts">	
       <h1 class="post-list-heading">Recent Posts</h1>
       <ul class="post-list">
         {%- for post in site.posts limit: 1 -%}
-        <li>-->
-        <!--  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
         
             <a class="post-link" href="/aicamp/dashboard/">
               <h6>
               Matrix Mystics
               </h6>
-            </a> -->
+            </a>
           
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
@@ -181,10 +172,6 @@ layout: default
       <!-- <a href="" class="btn">View All Posts</a> -->
     </div>
   {%- endif -%}
-
-  
 </div>
 </body>
 </html>
-
-
