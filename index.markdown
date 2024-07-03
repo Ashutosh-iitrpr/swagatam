@@ -55,9 +55,16 @@ For academic section queries please use:
 
 ---
 <img style="float: right;" src="images/about-img.jpg" width="300" height="200">
-# <span style="color: #007acc;">Join Our</span>
-[Linktree](https://linktr.ee/iitropar)  
+<h5>  </h5>
+# <span style="color: #007acc;">Connect With Us</span>
+
+<h2><span style="color: #4caf50;">Our Social Media Handles:</span></h2>
 {% include social.html %}
+<h3>
+<a href="https://linktr.ee/iitropar" class="btn">Join Our Linktree</a>
+</h3>
+
+<!-- <img style="float: right;" src="images/about-img.jpg" width="300" height="200"> -->
 ---
 
 ## Frequently Asked Questions
