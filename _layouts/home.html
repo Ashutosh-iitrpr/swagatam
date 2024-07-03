@@ -78,21 +78,34 @@ layout: default
   </style>
 </head>
 <body>
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+div class="home">
+  <!--{%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}  </h1>
+  {%- endif -%}-->
+
 
   <div class="hero-section">
-    <img src="/images/slider-bg3.png" alt="IIT Ropar" class="hero-image">
-    <div class="hero-text">
-      <h2>SWAGATAM TO IIT ROPAR</h2>
-      <p>Welcome to IIT Ropar, where new students are greeted with open arms and an array of orientation programs designed to help them integrate seamlessly into campus life and feel at home in no time.</p>
-      <a href="https://drive.google.com/file/d/1Iq39k0rplGGp_Yc4FM37wGkj0QKrDReW/view" class="btn">Campus Video</a>
+    <div class="content">
+      <h2 style="color: black;"><b> SWAGATAM TO IIT ROPAR </b></h2>
+      <p style="color: black; font-style: italic; font-family: cursive;">
+        <font size="1">
+        Welcome to IIT Ropar, where new students are greeted with open arms and an array of orientation <br>
+        programs designed to help them integrate seamlessly into campus life and feel at home in no time.
+        </font>
+      </p>
+    <!--<img src="images/joc.jpg" alt="AI Vicharana Shala" class="hero-image" width="512" height="512">-->
+      <!-- <iframe width="100%" height="auto" src="https://drive.google.com/file/d/1Iq39k0rplGGp_Yc4FM37wGkj0QKrDReW/view"></iframe> -->
+
+
+    <br><br>
+      <a href="https://drive.google.com/file/d/1Iq39k0rplGGp_Yc4FM37wGkj0QKrDReW/view" class="btn">Campus Video</a>    
+      
     </div>
   </div>
   
+ 
   {{ content }}
+
 
  <!-- {%- if site.posts.size > 0 -%}
     <div class="recent-posts">	
